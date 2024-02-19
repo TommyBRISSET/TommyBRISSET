@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Language used</h4>
+<h3 align="center">Language used</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="center">Technologies used</h4>
+<h3 align="center">Technologies used</h3>
 
 ###
 
