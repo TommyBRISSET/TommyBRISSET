@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Dagster-000000?style=for-the-badge&logo=dagster&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
 </p>
 
 #### **Business Intelligence (DataViz)**
