@@ -1,6 +1,6 @@
 <h1 align="center">Tommy BRISSET 👋</h1>
 <p align="center">
-<strong>Data Analyst | Computer Science Student @ SUPINFO</strong>
+<strong>Data analyst | Computer science student @ SUPINFO</strong>
 </p>
 
 <p align="center">
@@ -10,20 +10,21 @@
 
 ---
 
-### Profil & Expertise Data
+### Profil & expertise data
 Étudiant en Master à SUPINFO, je me spécialise dans la transformation de données brutes en **informations actionnables**. Mon approche combine vision métier et expertise technique pour créer de la valeur à chaque étape du cycle de vie de la donnée.
 
-* **Architecture & Pipelines :** Maîtrise des schémas de transformation (**Modèle en Médaillon**, couches RAW/DIM/FACT) et conception de pipelines robustes.
+* **Architecture & pipelines :** Maîtrise des schémas de transformation (**Modèle en médaillon**, couches RAW/DIM/FACT) et conception de pipelines robustes.
 * **DataViz & BI :** Création de tableaux de bord percutants adaptés aux besoins métiers (choix des indicateurs selon la typologie de données).
-* **Gouvernance & Éthique :** Sensibilisé à la cartographie du patrimoine de données, à la gestion des métadonnées et à la conformité **RGPD**.
-* **Acculturation Data :** Traduction des besoins métiers et formation des utilisateurs pour démocratiser la culture Data.
+* **Gouvernance & éthique :** Sensibilisé à la cartographie du patrimoine de données (**DataGalaxy**), à la gestion des métadonnées et à la conformité **RGPD**.
+* **Acculturation data :** Traduction des besoins métiers, animation d'ateliers collaboratifs (**Klaxoon**) et formation des utilisateurs pour démocratiser la culture Data.
 
 ---
 
-### Stack Technique
+### Stack technique
 
-#### **Data Science, ETL & Virtualisation**
+#### **Data science, ETL, virtualisation & gouvernance**
 <p align="left">
+  <img src="https://img.shields.io/badge/DataGalaxy-002D62?style=for-the-badge&logo=datagalaxy&logoColor=white" />
   <img src="https://img.shields.io/badge/Dataiku-000000?style=for-the-badge&logo=dataiku&logoColor=white" />
   <img src="https://img.shields.io/badge/Denodo-003366?style=for-the-badge&logo=denodo&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -33,15 +34,16 @@
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
 </p>
 
-#### **Business Intelligence (DataViz)**
+#### **Business intelligence & collaboration**
 <p align="left">
   <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Klaxoon-EC008C?style=for-the-badge&logo=klaxoon&logoColor=white" />
 </p>
 
-#### **Bases de Données (SQL, NoSQL, TimeSeries, Graph)**
+#### **Bases de données (SQL, NoSQL, TimeSeries, Graph)**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -52,10 +54,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-#### **Langages de Développement**
+#### **Langages & frameworks de développement**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -66,7 +71,7 @@
 
 ---
 
-### GitHub Activities
+### GitHub activities
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TommyBRISSET&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TommyBRISSET&layout=compact&theme=dracula&langs_count=6" height="150" />
