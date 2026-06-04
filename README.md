@@ -37,6 +37,7 @@
 #### **Business intelligence & collaboration**
 <p align="left">
   <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -73,8 +74,8 @@
 
 ### GitHub activities
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TommyBRISSET&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TommyBRISSET&layout=compact&theme=dracula&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TommyBRISSET&show_icons=true&theme=dracula&v=1" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TommyBRISSET&layout=compact&theme=dracula&langs_count=6&v=1" height="150" />
 </div>
 
 ---
